@@ -1,14 +1,14 @@
 # Overview
 
 ```
-Module Name: Synacor Media Bidder Adapter
+Module Name: iMDS Bidder Adapter (formerly Synacor Media)
 Module Type: Bidder Adapter
-Maintainer: eng-demand@synacor.com
+Maintainer: eng-demand@imds.tv
 ```
 
 # Description
 
-The Synacor Media adapter requires setup and approval from Synacor.
+The iMDS adapter requires setup and approval from iMDS.
 Please reach out to your account manager for more information.
 
 ### DFP Video Creative
